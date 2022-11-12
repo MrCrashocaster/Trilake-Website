@@ -1,0 +1,1 @@
+$(document).ready((function(){var o=$(window).scrollTop();$(window).on("scroll",(function(){o=$(window).scrollTop()}))}));

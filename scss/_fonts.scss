@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@font-face {
+    font-family: "CWM_Bold";
+    src: url("//db.onlinewebfonts.com/t/80be37bec3be1e9930885e31b9a6c04e.eot"); src: url("//db.onlinewebfonts.com/t/80be37bec3be1e9930885e31b9a6c04e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/80be37bec3be1e9930885e31b9a6c04e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/80be37bec3be1e9930885e31b9a6c04e.woff") format("woff"), url("//db.onlinewebfonts.com/t/80be37bec3be1e9930885e31b9a6c04e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/80be37bec3be1e9930885e31b9a6c04e.svg#A2 CWM WEB 3") format("svg");
+}
+
+// @font-face {
+//     font-family: "Chakra Petch";
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-Bold.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-BoldItalic.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-Italic.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-Light.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-LightItalic.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-Medium.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-MediumItalic.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-Regular.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-SemiBold.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/ChakraPetch-SemiBoldItalic.ttf") format("ttf");
+// }
+
+// @font-face {
+//     font-family: "PT Sans Narrow";
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/PTSansNarrow.ttf") format("ttf");
+//     src: url("/198.71.233.86/q48.a42.myftpupload.com/wp-content/themes/trilake/fonts/PTSansNarrow-Regular.ttf") format("ttf");
+// }
+
+$chakra: 'Chakra Petch', sans-serif;
+$cwm: 'CWM_Bold', sans-serif;
+$ptsans: 'PT Sans Narrow', sans-serif;

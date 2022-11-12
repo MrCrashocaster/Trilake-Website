@@ -1,0 +1,28 @@
+/*! Edit this in the style.scss file
+Theme Name: TriLake Guide Service
+Author: The Ads Company
+Author URI: https://theadscompany.co
+Description: This theme was developed for TriLake Guide Service.
+Version: 1.0
+*/
+
+@charset "UTF-8";
+
+@import "media";
+@import "fonts";
+
+@import "reset";
+@import "global";
+
+@import "header";
+@import "home";
+@import "page";
+@import "single";
+@import "about";
+@import "packages";
+@import "contact";
+@import "booking";
+
+//Import your own parcials here. A good structure would be to create a parcial for each page, section, or post type template.
+//If your parcial's file name was _header.scss you would import it as..
+//@import "header";
